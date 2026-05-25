@@ -1,0 +1,4 @@
+1.create project
+2.create Templates folder
+3.Add html pages(home,register)
+4.In views.py mention path of the templates folder
